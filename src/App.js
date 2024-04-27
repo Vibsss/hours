@@ -39,7 +39,7 @@ function App() {
           <Routes>
             <Route
               exact
-              path="/hours"
+              path="/"
               element={
                 <TestForm
                   paddingVal="my-3"
