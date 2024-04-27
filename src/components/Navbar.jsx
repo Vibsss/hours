@@ -27,7 +27,7 @@ export default function Navbar(props) {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
-              <Link to="/">Home</Link>{" "}
+              <Link to="/hours">Home</Link>{" "}
             </li>
             <li className="nav-item">
               <Link to="/date">Date</Link>{" "}
